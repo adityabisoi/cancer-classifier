@@ -4,9 +4,7 @@
   <img width="460" height="300" src="/src/image.jpg">
 </p>
 
-# Project Title
-
-Breast cancer clasification
+# Breast cancer clasification
 
 ## Description
 
